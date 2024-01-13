@@ -1,0 +1,30 @@
+[
+    {
+        "tid": 1,
+        "city": "Ayodha Yatra",
+        "name": "Manoj, Shivani",
+        "packageType": "4 Nights 6 Days",
+        "budget": 13200.550017882138
+    },
+    {
+        "tid": 2,
+        "city": "4 Daham Yatra",
+        "name": "Pankaj",
+        "packageType": "3 Nights 4 Days",
+        "budget": 20000.5
+    },
+    {
+        "tid": 4,
+        "city": "Shimla, Kullu, Manali",
+        "name": "Manisha",
+        "packageType": "10 Nights 11 Days",
+        "budget": 50000.5
+    },
+    {
+        "tid": 5,
+        "city": "Amarnath Yatra",
+        "name": "Pankaj, Shalini",
+        "packageType": "3 Nights 4 Days",
+        "budget": 16000.5
+    }
+]
